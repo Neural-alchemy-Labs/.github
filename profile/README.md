@@ -1,71 +1,52 @@
-# Neural-alchemy Labs
+# Neuralchemy Labs
 
-Rapid experiments, vibecoding, weird ideas, and fast prototypes from Neuralchemy.
+Neuralchemy Labs is the experimental arm of Neuralchemy.  
+It focuses on rapid prototyping, technical exploration, and early-stage ideas that may later evolve into full products.
 
-This is where ideas move fast, break fast, and sometimes turn into real products.
+This organization is designed for speed, learning, and iteration.
 
 ---
 
-## Experiments
+## Projects
 
 ### 🧠 Poly-Reasoner  
-A brutally honest, multi-perspective reviewer that tears ideas apart from every angle using independent agents.
-
-→ https://github.com/Neural-alchemy-Labs/poly-reasoner  
-
----
+A multi-agent, evidence-grounded system that evaluates ideas from independent perspectives, exposes trade-offs, and highlights uncertainty.  
+→ `poly-reasoner/`
 
 ### 🛰 Orbitcode  
-A fully offline coding assistant for developers who want privacy, control, and context-aware code generation.
-
-→ https://github.com/Neural-alchemy-Labs/orbitcode  
-
----
+An offline-first coding assistant built for developers who prioritize privacy, local control, and context-aware code generation.  
+→ `orbitcode/`
 
 ### 📓 Unbuilt Ideas  
-A public vault of ideas that came to mind but haven’t been built yet.  
-Some are raw. Some are solid. Some might become full products later.
-
-→ https://github.com/Neural-alchemy-Labs/unbuilt-ideas  
-
----
+A public archive of product and research ideas that have not yet been built.  
+Some are exploratory, some are refined, and some may become future projects.  
+→ `unbuilt-ideas/`
 
 ### 📈 Equitify  
-A natural language stock screener chatbot.  
-Talk to stocks like a human.
-
-→ https://github.com/Neural-alchemy-Labs/equitify  
+A natural language stock screener that allows users to query financial data using plain English.  
+→ `equitify/`
 
 ---
 
-## Philosophy
+## Purpose
 
-Neuralchemy Labs is about:
-- Fast prototypes  
-- Vibecoding  
-- Shipping experiments  
-- Learning in public  
-- Turning chaos into signal  
+Neuralchemy Labs exists to:
 
-Some projects die.  
-Some evolve.  
-Some become real products.
+- Explore new technical directions  
+- Prototype ideas quickly  
+- Test assumptions early  
+- Learn in public  
+- Identify projects worth long-term investment  
 
----
-
-## Main Org
-
-Serious tools, frameworks, and long-term projects live here:
-
-→ https://github.com/Neuralchemy  
+Not every experiment will become a product.  
+The goal is learning, iteration, and discovery.
 
 ---
 
-## Get Involved
+## Relationship to Neuralchemy
 
-- Star what you like  
-- Fork what you want  
-- Remix what inspires you  
-- Build what’s missing  
+Neuralchemy Labs is part of the Neuralchemy ecosystem.  
+Projects that mature beyond the experimental stage may be migrated to the main organization.
 
-This is a lab. Nothing is final.
+Main organization:  
+→ https://github.com/Neural-alchemy
