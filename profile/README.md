@@ -1,4 +1,4 @@
-# Neuralchemy Labs
+# Neural-alchemy Labs
 
 Rapid experiments, vibecoding, weird ideas, and fast prototypes from Neuralchemy.
 
