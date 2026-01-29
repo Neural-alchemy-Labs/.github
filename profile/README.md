@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Neural-alchemy-Labs/.github/main/profile/logo.png" width="120" />
-</p>
+
 
 <h1 align="center">Neuralchemy Labs</h1>
 
